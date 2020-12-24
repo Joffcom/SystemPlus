@@ -77,6 +77,7 @@ if module == "cleanVars":
         variables = variables.split(',')
 
     for var in variables:
+        var = var.strip()
         print(GetVar(var))
         SetVar(var, '')
 
