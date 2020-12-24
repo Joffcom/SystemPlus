@@ -26,7 +26,7 @@
       },
       "en": {
         "title": "Export variables to a file",
-        "description": "Export all Rocketbot variables to a files",
+        "description": "Export all Rocketbot variables to a file",
         "title_options": null,
         "options": null
       },
@@ -37,7 +37,7 @@
             "type": "file_new",
             "placeholder": {
               "es": "C:/User/Usuario/Folder/file.txt",
-              "en": "C:/User/Usuario/Folder/file.txt"
+              "en": "C:/User/Username/Folder/file.txt"
             },
             "title": {
               "es": "Ruta del archivo: ",
@@ -69,7 +69,7 @@
         "options": null
       },
       "en": {
-        "title": "Set Multiple Variable",
+        "title": "Set Multiple Variables",
         "description": "Set multiple variables from an iterable object",
         "title_options": null,
         "options": null
@@ -169,7 +169,7 @@
             },
             "help": {
               "es": "Nombres de variables sin {} y separadas por coma",
-              "en": "Variable name without {} and separated by comma"
+              "en": "Variable names without {} and separated by comma"
             },
             "id": "vars",
             "css": "col-md-12"
@@ -284,7 +284,7 @@
     {
       "en": {
         "title": "Foreground App",
-        "description": "App to the foreground",
+        "description": "Bring an app to the foreground",
         "title_options": "Select Option",
         "options": null
       },
@@ -328,7 +328,7 @@
     {
       "en": {
         "title": "Get Handle from Open windows",
-        "description": "return and array with name and handle tuple from Open Window",
+        "description": "Get a list of tuples containing the name and handle of open windows.",
         "title_options": null,
         "options": null
       },
